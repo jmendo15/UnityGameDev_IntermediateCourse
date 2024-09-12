@@ -108,8 +108,8 @@ Playtest and refine your game, create a polished final product, and prepare your
 
 ## Acknowledgements
 
-Unity Learn: Official Roll-A-Ball tutorial.
+_**Unity Learn:** Official Roll-A-Ball tutorial._
 
-Unity Asset Store: For free assets used in the course.
+_**Unity Asset Store:** For free assets used in the course._
 
-freesound.org: Source of sound effects for student projects.
+_**freesound.org:** Source of sound effects for student projects._
