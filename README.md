@@ -2,7 +2,7 @@
 ### Morrison Mentors
 _This repository provides a template project for an Intermediate 3D Unity Course, designed for high school students (Grades 9-12) to deepen their understanding of 3D game development using Unity._ The course guides students through creating a more advanced version of Unity's classic Roll-A-Ball game, adding professional features like sound effects, bouncy walls, and multiple levels.
 
-![Unity logo.]([https://logos-world.net/wp-content/uploads/2023/01/Unity-Logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/640px-Unity_2021.svg.png))
+![Unity logo.](https://logos-world.net/wp-content/uploads/2023/01/Unity-Logo.png)
 
 # Course Units Overview
 ## Unit 1: Introduction to 3D Unity Game Development
