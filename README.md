@@ -60,7 +60,7 @@ Creating and presenting elevator pitches for the final game.
 _Final Showcase:
 Present completed Super Roll-A-Ball games and pitches to peers._
 
-# Features
+# Project Features
 **Roll-A-Ball Mechanics:** Develop a simple 3D game with player movement, camera controls, and collectibles.
 
 **Advanced Gameplay Elements:** Add new mechanics like sound effects, bouncy walls, and multi-level gameplay.
@@ -74,6 +74,8 @@ Present completed Super Roll-A-Ball games and pitches to peers._
 # Getting Started
 ## Prerequisites
 Unity Version: 2022.3.39f1 or later.
+
+No prior experience with Unity is required, but basic familiarity with coding concepts (C#) is recommended.
 
 ## Installation
 Clone or download the repository:
